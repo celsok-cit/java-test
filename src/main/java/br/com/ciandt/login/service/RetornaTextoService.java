@@ -4,9 +4,13 @@ import br.com.ciandt.login.texto.RetornaTexto;
 
 public class RetornaTextoService {
 	
+	private RetornaTexto retornaTexto;
+	
+	public RetornaTextoService() {
+		this.retornaTexto = new RetornaTexto();
+	}
+	
 	public String obtemTexto() {
-		RetornaTexto retornaTexto = new RetornaTexto();
-		
 		String resultado = retornaTexto.retornar();
 		
 		return resultado;
