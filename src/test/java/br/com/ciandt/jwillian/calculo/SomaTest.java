@@ -1,9 +1,9 @@
-package br.com.ciandt.login.calculo;
+package br.com.ciandt.jwillian.calculo;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-import br.com.ciandt.login.calculo.Soma;
+import br.com.ciandt.jwillian.calculo.Soma;
 
 public class SomaTest {
 

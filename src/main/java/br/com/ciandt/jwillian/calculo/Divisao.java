@@ -1,4 +1,4 @@
-package br.com.ciandt.login.calculo;
+package br.com.ciandt.jwillian.calculo;
 
 public class Divisao {
 	
