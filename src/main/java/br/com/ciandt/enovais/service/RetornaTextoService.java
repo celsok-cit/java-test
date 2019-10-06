@@ -1,6 +1,6 @@
-package br.com.ciandt.login.service;
+package br.com.ciandt.enovais.service;
 
-import br.com.ciandt.login.texto.RetornaTexto;
+import br.com.ciandt.enovais.texto.RetornaTexto;
 
 public class RetornaTextoService {
 	

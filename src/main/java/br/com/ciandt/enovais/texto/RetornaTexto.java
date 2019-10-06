@@ -1,4 +1,4 @@
-package br.com.ciandt.login.texto;
+package br.com.ciandt.enovais.texto;
 
 public class RetornaTexto {
 	
