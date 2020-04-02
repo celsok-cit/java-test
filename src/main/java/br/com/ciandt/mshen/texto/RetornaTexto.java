@@ -1,4 +1,4 @@
-package br.com.ciandt.login.texto;
+package br.com.ciandt.mshen.texto;
 
 public class RetornaTexto {
 	
