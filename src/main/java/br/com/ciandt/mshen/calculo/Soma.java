@@ -1,4 +1,4 @@
-package br.com.ciandt.login.calculo;
+package br.com.ciandt.mshen.calculo;
 
 public class Soma {
 
