@@ -13,16 +13,16 @@ import br.com.ciandt.gian73.service.RetornaTextoService;
 import br.com.ciandt.gian73.texto.RetornaTexto;
 
 @RunWith(MockitoJUnitRunner.class)
-public class RetoraTextoServiceTest {
+public class RetornaTextoServiceTest {
 
     @InjectMocks
     RetornaTextoService retorna;
     
     @Mock
-    RetornaTexto Texto;
+    RetornaTexto texto;
     @Test
     public void retorna() {
-	Mockito.when(Texto.retornar()).thenReturn("Mock");
+	Mockito.when(texto.retornar()).thenReturn("Mock");
 	String resultado = retorna.obtemTexto();
 	assertEquals("Mock", resultado);
     }
