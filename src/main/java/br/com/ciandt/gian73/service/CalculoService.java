@@ -1,7 +1,7 @@
-package br.com.ciandt.login.service;
+package br.com.ciandt.gian73.service;
 
-import br.com.ciandt.login.calculo.Divisao;
-import br.com.ciandt.login.calculo.Soma;
+import br.com.ciandt.gian73.calculo.Divisao;
+import br.com.ciandt.gian73.calculo.Soma;
 
 public class CalculoService {
 	
